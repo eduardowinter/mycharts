@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pineapple:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-03-09T17:39:51.321340189-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 5d31fc9642cc6a4de833a0543571dde7c9a50a57385468ce6a3d26edca1688f3
+    name: pineapple
+    type: application
+    urls:
+    - pineapple-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-03-09T17:39:51.320857497-03:00"
